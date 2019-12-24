@@ -1,0 +1,14 @@
+task 
+1 write0 kongjian wei 6(huanxingzhizheng ptr 1-6 yibianhou chong2kaishi )
+2 read0() read1()
+ri buff
+
+w
+r //gongxiaong yige jishuqi 
+space = 0; xiezhe write zhoudiao
+
+space = 5; rourongweikong read zhoudiao
+
+r0
+r1  //gongxiang ri space = 0 w zhoudiao
+mutex = 2;
